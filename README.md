@@ -10,4 +10,4 @@ I'm currently working with TypeScript, Next.js, NestJS, MongoDB and PostgreSQL, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickgirardi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isTrick&layout=compact)
