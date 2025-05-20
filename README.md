@@ -1,4 +1,4 @@
-Hello, I'm a 20 years old fullstack web developer from the south side of Brazil.
+Hello, I'm a 21 years old fullstack web developer from the south side of Brazil.
 
 I'm currently working with TypeScript, Next.js, NestJS and PostgreSQL, but I also know something about Python and Android development with Kotlin.
 
