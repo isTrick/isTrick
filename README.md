@@ -9,4 +9,4 @@ I'm currently working with TypeScript, Next.js, NestJS and PostgreSQL, but I als
 ![Prisma ORM](https://img.shields.io/badge/Prisma-000000?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3178C6?style=flat&logo=postgresql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickgirardi&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickgirardi&layout=compact&theme=github_dark)
